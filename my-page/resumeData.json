@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name":"Nam Pham",
+    "description":"I am a Computer Science and Mathematics freshman. Welcome to my homepage!", 
+    "image":"profile.jpeg",
+    "bio": "I'm a Computer Science and Mathematics freshman at UMass Amherst, currently interning at CodSoft, where I'm delving into the world of web development. Previously, I explored the realm of connected devices as an IoT intern at Ho Chi Minh University of Technology. Beyond coding, I find joy in playing chess, soccer, and badminton, always seeking new challenges and opportunities for growth.",
+    "contactmessage":"Feel free to reach out to me using this form and I'll get back to you ASAP.",
+    "email": "namphamphuong906@gmail.com",
+    "phone": "413-472-4405",
+    "github":"https://github.com/namdavid2904",
+    "project":"https://github.com/namdavid2904/band-site",
+    "address":{
+      "street":"739 N Pleasant St",
+      "city":"Amherst",
+      "state":"MA",
+      "zip": "01003"
+    },
+    "resumedownload":"https://drive.google.com/file/d/1DKQPs1bN877Q-nskf4UaxuYYh7xjrkUn/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/nam.phamphuong.1422/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nam-pham-5473a1196/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/covid_nam/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/namdavid2904",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Some of my skills with a somewhat arbitrary graphic representation of my competence.",
+    "education":[
+      {
+        "school":"UMass Amherst",
+        "degree":"Bachelor of Science in Computer Science and Mathematics",
+        "graduated":"May 2027",
+        "description":"Studied Software Engineering, Algorithms, Data Structures, AI, Databases, and more. Double Major in Mathematics, with concentration in Statistics/Data Science."
+      },
+      {
+        "school":"Le Hong Phong High School for The Gifted",
+        "degree":"High School Diploma",
+        "graduated":"May 2023",
+        "description":"Graduated high school having focused on computer science and mathematics."
+      }
+    ],
+    "work":[
+      {
+        "company":"CodSoft",
+        "title":"Web Development Intern",
+        "years":"Mar 2024 - Present",
+        "description":"As a Web Developer Intern, I spearheaded the development of e-commerce and project management solutions using React.js, Node.js, and MongoDB, optimizing code for improved performance and efficiency, resulting in significant load time reductions and enhanced team productivity."
+      },
+      {
+        "company":"Ho Chi Minh University of Technology",
+        "title":"IoT Intern",
+        "years":"Jul 2022 - August 2022",
+        "description":"As an IoT intern, I contributed to the development of basic IoT applications utilizing Python, engaged in practical experimentation with Arduino robotic arms for object manipulation, and played a role in creating a household lighting usage monitoring system."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"99%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"95%"
+      },
+      {
+        "name":"LaTeX",
+        "level":"99%"
+      },
+      {
+        "name":"MySQL",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Band Site",
+        "category":"A web app to showcase concerts and sell tickets",
+        "image":"routeCardsSplash.png",
+        "url":"https://github.com/namdavid2904/band-site"
+      },
+      { 
+        "title":"Dragon-Repeller RPG Game",
+        "category":"A simple RPG game where you must defeat the dragon that is terrorizing the town",
+        "image":"routeCardsSplash.png",
+        "url":"https://repeller-dragon.netlify.app/"
+      },
+      {
+        "title":"Employee Data Processing",
+        "category":"A Python program to designed to process, analyze, and visualize employee data",
+        "image":"routeCardsSplash.png",
+        "url":"https://github.com/namdavid2904/employee-data-processing"
+      },
+      {
+        "title":"Tic Tac Toe",
+        "category":"Tic Tac Toe game using Python",
+        "image":"routeCardsSplash.png",
+        "url":"https://github.com/namdavid2904/Tic-Tac-Toe"
+      }
+    ]
+  }
+}

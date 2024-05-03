@@ -117,5 +117,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - This project utilizes various open-source libraries and resources, including React.js, jQuery, Font Awesome, and Magnific Popup.
-
----
